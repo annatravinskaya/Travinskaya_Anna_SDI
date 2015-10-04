@@ -1,3 +1,5 @@
-// JavaScript
+// Defining Variables
 
-var age;
+var age; //declaration
+age = 38; //definition
+//storage container = value
