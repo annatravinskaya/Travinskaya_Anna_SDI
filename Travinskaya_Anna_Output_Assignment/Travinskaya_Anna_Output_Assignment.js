@@ -4,3 +4,7 @@
 var myPlaceOfLiving = "Switzerland"; // declared and defined my string variable
 var numberOfYears = 6; // declared and defined my number variable
 var swissNationality = false; // declared and defined my Boolean variable
+
+document.write("Hello, I live in " + myPlaceOfLiving + " for " + numberOfYears + " years ");
+
+
