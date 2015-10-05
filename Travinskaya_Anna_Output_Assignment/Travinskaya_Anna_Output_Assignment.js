@@ -3,4 +3,4 @@
 
 var myPlaceOfLiving = "Switzerland"; // declared and defined my first variable
 var numberOfYear = 6; // declared and defined my number variable
-var swissNationality = false;
+var swissNationality = false; // declared and defined my Boolean variable
