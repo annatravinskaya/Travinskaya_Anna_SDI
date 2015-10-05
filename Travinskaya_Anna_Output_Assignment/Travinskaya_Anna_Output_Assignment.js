@@ -10,4 +10,5 @@ document.write(" Hello , I live in " + myPlaceOfLiving + " for " + numberOfYears
 
 document.write(numberOfYears + " years is a lot. ");
 
+document.write("However, it is " + swissNationality + " to assume that I am Swiss.");
 
