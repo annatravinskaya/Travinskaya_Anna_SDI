@@ -1,12 +1,8 @@
-//Casting
+// Prompt and Alert
 
-var areaCode = 407;
-var firstPart = 203;
-var secPart = 4529;
+var userInput = prompt("Enter your year of birth:");
+console.log(userInput);
 
-// (407) 203-4529
-var phoneNo = '(' + String(areaCode) + ')' + String(firstPart) + '-' + String(secPart);
-console.log(phoneNo);
 
 
 
