@@ -10,6 +10,13 @@ var myFirstName;
 var myLastName;
 var myAge;
 var newAge;
+var ages = [];
+
+ages[0] = prompt("Enter first age: ");
+ages[1] = prompt("Enter second age: ");
+
+
+newAge = ages[0] + ages[1] + ages[2];
 
 //prompts - allow me to assign user data to the variables
 //always return string data
