@@ -14,3 +14,6 @@ var salesTaxPercentage = 1.5;
 var priceWithoutTax = originalPrice - (originalPrice * discountPercentage / 100);
 var priceWithTax =  priceWithoutTax + (priceWithoutTax * salesTaxPercentage / 100);
 
+
+//Print th output the describes different prices for a pullover
+console.log("Your " + itemDescription + " was originally $" + originalPrice + ", but after a " + discountPercentage + "% discount, it is now $" + priceWithoutTax + " without tax, and $" + priceWithTax + " with tax.");
