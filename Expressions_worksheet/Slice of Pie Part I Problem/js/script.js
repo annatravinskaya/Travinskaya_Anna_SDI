@@ -6,8 +6,11 @@
 //calculate how many slices of pizza each person gets
 
 var slicesPerPizza = 7;
-var numberOfPeople = 27;
+var numberOfPeople = 16;
 var pizzasOrdered = 5;
+
+var slicesPerPerson = slicesPerPizza * pizzasOrdered / numberOfPeople;
+
 
 
 
