@@ -11,3 +11,6 @@ var totalAmount = weeklyGroceryTotal[0] + weeklyGroceryTotal[1] + weeklyGroceryT
 
 //Average = Sum of all numbers divided by the amount of numbers there are.
 var averageWeeklySpending = totalAmount / 5;
+
+//Print out the output describing the results
+console.log("You have spent a total of $" + totalAmount + " on groceries over 5 weeks. That is an average of $" + averageWeeklySpending + " per week.");
