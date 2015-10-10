@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7068ecac-e1c9-4405-8e05-8174f46f092f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Travinskaya_Anna_Expressions_Assignment/Expressions Assignment.html" afterPath="$PROJECT_DIR$/Travinskaya_Anna_Expressions_Assignment/Expressions Assignment.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Travinskaya_Anna_Expressions_Assignment/js/script.js" afterPath="$PROJECT_DIR$/Travinskaya_Anna_Expressions_Assignment/js/script.js" />
     </list>
     <ignored path="Travinskaya_Anna_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,24 +23,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Expressions Assignment.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Expressions Assignment.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Travinskaya_Anna_Expressions_Assignment/Expressions Assignment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20188425">
+            <state vertical-scroll-proportion="-6.25">
               <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Travinskaya_Anna_Expressions_Assignment/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.17601043">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,8 +95,8 @@
         <option value="$PROJECT_DIR$/Expressions_worksheet/Average Shopping Bill Problem/js/script.js" />
         <option value="$PROJECT_DIR$/Expressions_worksheet/Discounts Problem/Discounts Problem.html" />
         <option value="$PROJECT_DIR$/Expressions_worksheet/Discounts Problem/js/script.js" />
-        <option value="$PROJECT_DIR$/Travinskaya_Anna_Expressions_Assignment/js/script.js" />
         <option value="$PROJECT_DIR$/Travinskaya_Anna_Expressions_Assignment/Expressions Assignment.html" />
+        <option value="$PROJECT_DIR$/Travinskaya_Anna_Expressions_Assignment/js/script.js" />
       </list>
     </option>
   </component>
@@ -110,7 +108,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="96" />
+    <option name="x" value="68" />
     <option name="y" value="23" />
     <option name="width" value="1345" />
     <option name="height" value="864" />
@@ -424,7 +422,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="96" y="23" width="1345" height="864" extended-state="0" />
+    <frame x="68" y="23" width="1345" height="864" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -655,6 +653,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.0">
           <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -683,6 +682,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.875">
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -697,6 +697,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.273794">
           <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -711,6 +712,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -746,6 +748,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -812,20 +815,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Travinskaya_Anna_Expressions_Assignment/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Travinskaya_Anna_Expressions_Assignment/Expressions Assignment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Travinskaya_Anna_Expressions_Assignment/Expressions Assignment.html">
+    <entry file="file://$PROJECT_DIR$/Travinskaya_Anna_Expressions_Assignment/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20188425">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.17601043">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
