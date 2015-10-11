@@ -2,9 +2,35 @@
  */
 
 //Variables
-var userAge = prompt("Enter your age: ");
-var userWeight = prompt("Enter your weight in kg: ");
-var userHeight = prompt("Enter your height in cm: ");
+var userAge = [];
+var userWeight = [];
+var userHeight = [];
+
+//Array
+//Information from user 1
+userAge[0] = prompt("Enter your age: ");
+userWeight[0]= prompt("Enter your weight in kg: ");
+userHeight[0]= prompt("Enter your height in cm: ");
+
+//Information from user 2
+userAge[1] = prompt("1.Enter your age: ");
+userWeight[1]= prompt("1.Enter your weight in kg: ");
+userHeight[1]= prompt("1.Enter your height in cm: ");
+
+//Information from user 3
+userAge[2] = prompt("2.Enter your age: ");
+userWeight[2]= prompt("2.Enter your weight in kg: ");
+userHeight[2]= prompt("2.Enter your height in cm: ");
+
+//Information from user 4
+userAge[3] = prompt("3.Enter your age: ");
+userWeight[3]= prompt("3.Enter your weight in kg: ");
+userHeight[3]= prompt("3.Enter your height in cm: ");
+
+//Information from user 5
+userAge[4] = prompt("4.Enter your age: ");
+userWeight[4]= prompt("4.Enter your weight in kg: ");
+userHeight[4]= prompt("4.Enter your height in cm: ");
 
 //Casted variables as numbers
 userAge = Number(userAge) > 20; // if the user is less than 20 than he or she is too young to receive an accurate description using this calculator
@@ -17,6 +43,11 @@ var metricHeight = (userHeight / 100) * (userHeight / 100) ; // used arithmetic 
 
 //to calculate Body Mass Index: weight needs to be divided by by metric height.
 var userBMI = userWeight / metricHeight;
+
+var averageAge = userAge[0] + userAge[1] + userAge[2] + userAge[3] + userAge[4];
+var averageWeight = userWeight[0] + userWeight[1] + userWeight[2] + userWeight[3] + userWeight[4];
+var averageHeight = userHeight[0] + userHeight[1] + userHeight[2] + userHeight[3] + userHeight[4];
+
 
 //Output
 console.log("Your age is " + userAge + ".");//states the age of the user
