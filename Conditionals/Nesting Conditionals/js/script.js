@@ -5,11 +5,12 @@
 var warmWater;
 var wearNewSuit;
 
-if(sunny) {
+if(sunny){
     goToTheBeach(); //make an indent after to show which statement is inside the other
 
-    if (warmWater) {
+    if (warmWater){
         wearNewSuit(); //putting one condition into the other to make sure right actions happen at the right place
     }
 }else{
     goToTheMovies();
+}
