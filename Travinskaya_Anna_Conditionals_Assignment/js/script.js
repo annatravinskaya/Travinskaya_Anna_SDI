@@ -11,3 +11,6 @@ var computerMemory               = Number(prompt("Enter computer's internal stor
 var originalPriceOfTheComputer   = Number(prompt("Enter the original price of the computer"));
 var discountPercentage           = Number(prompt ("Enter discount percentage for the computer:"));
 
+//Calculations to find out the cost of the computer with the discount
+var discountedAmount             = (originalPriceOfTheComputer * discountPercentage)/100;
+var newComputerPrice             = originalPriceOfTheComputer - discountedAmount;
