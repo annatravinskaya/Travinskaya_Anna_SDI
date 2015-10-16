@@ -45,3 +45,16 @@ if(discountPercentage = ""){
     prompt("Please, enter discount percentage for the computer: ");
 }
 
+
+
+//Outputs using conditionals
+if(newComputerPrice < 1700 && computerScreenSize > 13){
+    //includes logic operator &&
+    console.log("$ " + newComputerPrice + " is a good price for it !");
+
+}else if(newComputerPrice < 1700 || computerMemory > 8){
+    //includes logic opertor ||
+    console.log("$ " + newComputerPrice + " is a good price for it !");
+}else{
+    console.log(" Buying" + nameOfTheComputer + "for" + newComputerPrice + "is not a good investment. ");
+}
