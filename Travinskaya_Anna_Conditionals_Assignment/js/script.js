@@ -62,3 +62,17 @@ if(newComputerPrice < 1700 && computerScreenSize > 13){
 //Ternary Conditional
 result = (newComputerPrice < 1700) ? "Congratulations, for finding " + nameOfTheComputer + "at a great price!" : "Sorry, you should look at discounts for " + nameOfTheComputer + "somewhere else.";
 console.log(result);
+
+// test	for the final values
+//Input
+// var nameOfTheComputer         = Apple
+//var computerScreenSize         = 15
+//var computerMemory             = 16
+//var originalPriceOfTheComputer = 2000
+//var discountPercentage         = 30
+
+//Output
+//You would like to buy an Apple.
+//It has a 15 inch display and 16 GB memory.
+// $ 1400 is a good price for it !
+// Congratulations, for finding at a great price!
