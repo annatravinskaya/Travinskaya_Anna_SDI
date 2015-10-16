@@ -58,3 +58,7 @@ if(newComputerPrice < 1700 && computerScreenSize > 13){
 }else{
     console.log(" Buying" + nameOfTheComputer + "for" + newComputerPrice + "is not a good investment. ");
 }
+
+//Ternary Conditional
+result = (newComputerPrice < 1700) ? "Congratulations, for finding " + nameOfTheComputer + "at a great price!" : "Sorry, you should look at discounts for " + nameOfTheComputer + "somewhere else.";
+console.log(result);
