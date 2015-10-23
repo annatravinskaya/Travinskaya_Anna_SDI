@@ -20,7 +20,7 @@ while(lotteryType === "Powerball") {
     lotteryType++;
 }
 
-//Created a function for the Florida Lottery
+// Function for the Florida Lottery
 floridaNumbers = function randomFloridaNumbers(){
     for(floridaNumber = 0; floridaNumber < 6; floridaNumber++);
     var floridaRNumbers = (Math.floor(Math.random() * 53) + 1);
@@ -30,4 +30,17 @@ floridaNumbers = function randomFloridaNumbers(){
 //connected prompt to function via conditional statement
 if(lotteryType === "Florida") {
     console.log("Your numbers for Florida lottery are : " + floridaNumbers);
+}
+
+//Two  function fo the Powerball lottery
+powerballNumbers = function randomPowerballNumbers (){
+    for (var powerballRNumber = 0; powerballRNumber < 5; powerballRNumber++);
+    var powerballRNumbers = (Math.floor(Math.random()* 59) + 1);
+    return powerballRNumbers;
+}
+
+powerBall = function powerBallgenerator (){
+    for(var rPowerball = 0; rPowerball <1; rPowerball++);
+    rPowerballValue = (Math.floor (Math.random()* 35)+ 1);
+    return rPowerballValue;
 }
