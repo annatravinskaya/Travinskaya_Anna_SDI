@@ -324,7 +324,7 @@
         <entry file="file://$PROJECT_DIR$/Trying out Variables/trial fn/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="17" selection-end-column="18" />
+              <caret line="29" column="76" selection-start-line="21" selection-start-column="0" selection-end-line="29" selection-end-column="76" />
               <folding>
                 <element signature="e#0#50#0" expanded="false" />
               </folding>
@@ -335,8 +335,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Travinskaya_Anna_Functions_Assignment/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28448275">
-              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.75">
+              <caret line="29" column="56" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -1079,7 +1079,7 @@
     <entry file="file://$PROJECT_DIR$/Trying out Variables/trial fn/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="17" selection-end-column="18" />
+          <caret line="29" column="76" selection-start-line="21" selection-start-column="0" selection-end-line="29" selection-end-column="76" />
           <folding>
             <element signature="e#0#50#0" expanded="false" />
           </folding>
@@ -1088,8 +1088,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Travinskaya_Anna_Functions_Assignment/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28448275">
-          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.75">
+          <caret line="29" column="56" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

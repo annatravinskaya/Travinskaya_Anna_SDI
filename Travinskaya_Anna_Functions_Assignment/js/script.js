@@ -15,6 +15,19 @@ while(lotteryType === "Florida"){
     lotteryType++;
 }
 
-while(lotteryType === "Powerball"){
+while(lotteryType === "Powerball") {
     console.log("You are playing Powerball lottery!")
     lotteryType++;
+}
+
+//Created a function for the Florida Lottery
+floridaNumbers = function randomFloridaNumbers(){
+    for(floridaNumber = 0; floridaNumber < 6; floridaNumber++);
+    var floridaRNumbers = (Math.floor(Math.random() * 53) + 1);
+    return floridaRNumbers();
+    }
+
+//connected prompt to function via conditional statement
+if(lotteryType === "Florida") {
+    console.log("Your numbers for Florida lottery are : " + floridaNumbers);
+}
