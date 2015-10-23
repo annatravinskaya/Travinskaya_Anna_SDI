@@ -44,3 +44,8 @@ powerBall = function powerBallgenerator (){
     rPowerballValue = (Math.floor (Math.random()* 35)+ 1);
     return rPowerballValue;
 }
+
+//connected prompt to the function via conditional statement
+if (lotteryType === "Powerball"){
+    console.log("Your numbers for Powerball lottery are : " + powerballNumbers + ". Powerball number is " + powerBall + ".");
+}
